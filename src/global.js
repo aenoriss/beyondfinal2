@@ -9,3 +9,4 @@ require('aframe-template-component');
 
 // Custom components in components/
 // require('./components/foo');
+require('./components/transcription');
